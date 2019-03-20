@@ -1,4 +1,4 @@
-FROM jlivermont/raven-base:${CIRCLE_BUILD_NUM}
+FROM jlivermont/raven-base:9
 
 ARG VCS_REF
 
