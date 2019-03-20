@@ -38,4 +38,4 @@ jobs:
             docker push jlivermont/${CIRCLE_PROJECT_REPONAME}:latest
       - run:
           name: Trigger update of build badges
-          command: curl -X POST https://hooks.microbadger.com/images/jlivermont/raven/ZFKCDPa7vqVWr-PLzFdVzd-ct0Q=
+          command: curl -X POST https://hooks.microbadger.com/images/jlivermont/raven/j0QKaXoBrbXe7xt8el_9Ms0zT_A=
