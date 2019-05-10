@@ -1,4 +1,4 @@
-FROM jlivermont/raven-base:10
+FROM jlivermont/raven-base:11
 
 ARG VCS_REF
 
